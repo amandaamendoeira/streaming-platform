@@ -7,8 +7,7 @@ Built during the Alura Front-End & AI Immersion, with emphasis on clean UI and u
 
 🚀 Live Demo
 
-👉 Vercel:
-
+- Vercel: https://streaming-platform-livid.vercel.app/
 
 🖥️ Preview
 
