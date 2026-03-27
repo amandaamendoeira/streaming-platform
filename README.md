@@ -46,9 +46,11 @@ This project was developed as part of the Alura Front-End & AI Immersion, aiming
 To run this project locally:
 
 - Clone the repository
+
 git clone https://github.com/your-username/streaming-platform.git
 
 - Navigate into the project folder
+  
 cd streaming-platform
 
 - Open index.html in your browser
