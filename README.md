@@ -18,13 +18,13 @@ Built during the Alura Front-End & AI Immersion, with emphasis on clean UI and u
 
 ✨ Features
 
-👤 Multiple user profile selection interface
-🌗 Dark / Light mode with persistent preference (localStorage)
-📱 Fully responsive layout (mobile, tablet, desktop)
-🎨 Netflix-inspired modern UI
-🖱️ Hover interactions and visual feedback
-♿ Accessibility-friendly structure (semantic HTML + ARIA)
-⚡ Lightweight and fast — no frameworks
+- Multiple user profile selection interface;
+- Dark / Light mode with persistent preference (localStorage);
+- Fully responsive layout (mobile, tablet, desktop)
+- Netflix-inspired modern UI
+- Hover interactions and visual feedback
+- Accessibility-friendly structure (semantic HTML + ARIA)
+- Lightweight and fast — no frameworks
 
 🧠 Built With
 - HTML5 — Semantic structure and accessibility
@@ -41,7 +41,6 @@ This project was developed as part of the Alura Front-End & AI Immersion, aiming
 - Accessibility best practices
 - State persistence in the browser
 - Clean and maintainable code structure
-
 
 📂 Getting Started
 To run this project locally:
