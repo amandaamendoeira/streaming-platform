@@ -136,6 +136,33 @@ figcaption {
     letter-spacing: 0.5px; /* Espaçamento entre letras */
 }
 
+/* ---------- GERENCIAR ---------- */
+
+.gerenciar {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.botao-gerenciar {
+    background: transparent;
+    border: 1px solid grey;
+    color: grey;
+    padding: 10px 30px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-weight: 200;
+    transition: all 0.3s;
+}
+
+.botao-gerenciar:hover {
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+}
+
 /* =====================================================
    MEDIA QUERIES - RESPONSIVIDADE
    ===================================================== */
